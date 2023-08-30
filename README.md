@@ -24,7 +24,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/meepo-game.git
+   git clone https://github.com/kanzarizwan/Meepo-Game.git
    
 2. Navigate to the Project Repositiory
    `cd Meepo-Game`
